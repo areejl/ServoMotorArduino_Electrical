@@ -2,7 +2,7 @@
 ## Task 1 of the Electrical track of summer training at Smart-Methods
 
 
-# [Click here to Start simulation via tinkercad](https://www.tinkercad.com/things/bc3J3yHT5mv-exquisite-kasi-gogo)
+### [Click here to Start simulation via tinkercad](https://www.tinkercad.com/things/bc3J3yHT5mv-exquisite-kasi-gogo)
 
 Code :
 
@@ -39,7 +39,7 @@ void loop()
 ```
 </br>
 
-[img](Circuit.png)
+![img](Circuit.png)
 </br>
-[vid](Circuit_designKasi-Gogo_Tinkercad.mp4)
+![vid](Circuit_designKasi-Gogo_Tinkercad.mp4)
 </br>
