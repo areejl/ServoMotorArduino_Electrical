@@ -1,5 +1,5 @@
 # ServoMotorArduino_Electrical
-## Task 1 of the Electrical track of summer training at Smart-Methods
+## Task 1 of the electrical and power engineering track of summer training at Smart-Methods
 
 
 ### [Click here to Start simulation via tinkercad](https://www.tinkercad.com/things/bc3J3yHT5mv-exquisite-kasi-gogo)
